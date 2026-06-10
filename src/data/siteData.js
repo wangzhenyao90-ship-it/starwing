@@ -236,8 +236,8 @@ const siteContent = {
       labels: { phone: '电话：', email: '邮箱：', address: '地址：', website: '官网：' },
       info: {
         phone: '136 2848 9787',
-        email: 'cqxingyi@163.com',
-        address: '中国 · 重庆',
+        email: 'xingyi@163.com',
+        address: '苏州市工业园区金湖大道',
         website: 'www.starwingtech.com',
         qr: 'figs/qr-code.png'
       },
@@ -498,7 +498,7 @@ const siteContent = {
       info: {
         phone: '+86 136 2848 9787',
         email: 'cqxingyi@163.com',
-        address: 'Chongqing, China',
+        address: 'Jinji Lake Avenue Suzhou Industrial Park Suzhou',
         website: 'www.starwingtech.com',
         qr: 'figs/qr-code.png'
       },
